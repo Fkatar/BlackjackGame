@@ -36,8 +36,9 @@ The goal of this project is to consolidate knowledge in Haskell by building a co
 
 1. **Clone this repository** to your local machine:
    ```bash
-   git clone <repository-url>
-   cd <repository-name>
+   git clone https://github.com/Fkatar/BlackjackGame.git
+   cd BlackjackGame
+
    ```
 2. **Build the project** with Stack:
    ```bash
